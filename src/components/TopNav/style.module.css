@@ -1,0 +1,21 @@
+.topNav {
+  background-color: #140d00;
+  color: #845695;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  font-size: 1rem;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #845695;
+    border-radius: 0.3rem;
+    border-color: transparent;
+    cursor: pointer;
+    font-family: cursive;
+}
+
+.button:hover {
+    background-color: #845695;
+}
