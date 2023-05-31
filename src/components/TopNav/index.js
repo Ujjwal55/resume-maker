@@ -5,7 +5,6 @@ function TopNav() {
   return (
     <div className={style.topNav}>
       DevUnite Resume Builder
-      <button className={style.button}>Sign Up!</button>
     </div>
   );
 }
